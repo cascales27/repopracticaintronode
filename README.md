@@ -1,3 +1,11 @@
+## URL
+
+La practica configuración de servidores está desplegada en la siguiente url:
+http://ec2-44-206-49-29.compute-1.amazonaws.com/   en esta está la de node( que no funciona)
+http://44.206.49.29 en esta está desplegada la de react
+
+
+
 ## EXPRESS
 
 Se genera la app con express
